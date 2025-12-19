@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1061665046526",
+    "firebase_url": "https://smartfan-796fc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartfan-796fc",
+    "storage_bucket": "smartfan-796fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061665046526:android:db65eff394e5c99c730aaf",
+        "android_client_info": {
+          "package_name": "com.ghinafadiyahhr0001.smartfan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUP00ThbNgvWrCbXwuPwEBRupA5AZN_qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
